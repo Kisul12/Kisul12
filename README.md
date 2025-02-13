@@ -40,8 +40,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kisul12/Kisul12/output/snake.svg" alt="Snake animation" />
 
 ###
